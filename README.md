@@ -1,4 +1,4 @@
-# 🧑‍💼 Employee Management System
+# 🧑‍💼 Employee Management System  (SAIL Internship)
 
 A Java-based GUI desktop application that allows you to manage employee records efficiently. Built using **Java Swing** for the interface and **MySQL** for database operations.
 
