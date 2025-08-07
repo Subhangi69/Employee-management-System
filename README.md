@@ -32,6 +32,7 @@ A Java-based GUI desktop application that allows you to manage employee records 
 ## 🧑‍💻 How to Run the Application
 
 ### 1. Clone the Repository
+```bash
 
 git clone https://github.com/Subhangi69/Employee-Management-System.git
 cd Employee-Management-System
