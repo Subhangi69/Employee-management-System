@@ -36,7 +36,7 @@ A Java-based GUI desktop application that allows you to manage employee records 
 
 git clone https://github.com/Subhangi69/Employee-Management-System.git
 cd Employee-Management-System
-
+```
 ## 2. Set Up the MySQL Database
 ### Open MySQL and run the following commands to create the database and table:
 ```bash
