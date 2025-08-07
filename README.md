@@ -47,7 +47,7 @@ cd Employee-Management-System
 ## 2. Set Up the MySQL Database
 ### Open MySQL and run the following commands to create the database and table:
 
-CREATE DATABASE IF NOT EXISTS employeedb;
+   CREATE DATABASE IF NOT EXISTS employeedb;
 USE employeedb;
 
 CREATE TABLE employee (
