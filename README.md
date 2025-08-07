@@ -33,9 +33,8 @@ A Java-based GUI desktop application that allows you to manage employee records 
 
 ### 1. Clone the Repository
 
-```bash
 
-2. Set Up the MySQL Database
+### 2. Set Up the MySQL Database
 Open MySQL and create a database, e.g., employeedb
 Create a table with suitable schema (columns like name, age, address, etc.)
 Update your conn.java file with your DB name, username, and password:
